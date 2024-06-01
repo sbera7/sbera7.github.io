@@ -11,7 +11,7 @@ author_profile: true
   Abhisek Tiwari, Shreyangshu Bera, Preeti Verma, Sriparna Saha, Pushpak Bhattacharya, Minkashi Dhar, Ankita De.  
   *IEEE Journal of Biomedical and Health Informatics (under review)*  [[code](https://github.com/NLP-RL/MCSG)]
 
-- [I trust what I observe: Towards Knowledge-Infused Multi-modal Medical Dialogue Generation](https://drive.google.com/file/d/16uNUhUEtZgbWESY5_IsdT0WNuTn29pVH/view?usp=share_link).  
+- [Seeing Is Believing! towards Knowledge-Infused Multi-modal Medical Dialogue Generation](https://aclanthology.org/2024.lrec-main.1264).  
   Abhisek Tiwari, Shreyangshu Bera, Preeti Verma, Jaithra Varma Manthena, Sriparna Saha, Pushpak Bhattacharyya, Minakshi Dhar and Sarbajeet Tiwari.  
   *Joint International Conference on Computational Linguistics, Language Resource and Evaluation (LREC-COLING) 2024*  [[code](https://github.com/NLP-RL/KI-MMDG)]
 
