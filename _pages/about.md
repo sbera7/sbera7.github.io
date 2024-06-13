@@ -11,6 +11,3 @@ Now, learning Neurosymbolic AI and trying to integrate it into large language mo
 
 
 In prior, I interned at IIT Patna and IIT Kharagpur. I worked with [Abhisek Tiwari](https://abhisektiwari.github.io/) at IIT Patna under the guidance of [Prof. Sriparna Saha](https://www.iitp.ac.in/~sriparna/) on knowledge-infused dialogue systems and multimodal summarization. At IIT Kharagpur, I worked with [Nilanjan Sinhababu](https://www.linkedin.com/in/nilanjansb/?originalSubdomain=in) under the supervision of [Prof. Pabitra Mitra](https://cse.iitkgp.ac.in/~pabitra/) to study neural question generation within the field of expert healthcare informatics.
-
-
-
