@@ -11,10 +11,10 @@ author_profile: true
   Abhisek Tiwari, Shreyangshu Bera, Preeti Verma, Sriparna Saha, Pushpak Bhattacharya, Minkashi Dhar, Ankita De.  
   *IEEE Journal of Biomedical and Health Informatics (under review)*  [[code](https://github.com/NLP-RL/MCSG)]
 -->
-- [Seeing Is Believing! towards Knowledge-Infused Multi-modal Medical Dialogue Generation](https://aclanthology.org/2024.lrec-main.1264).  
+- [Seeing Is Believing! towards Knowledge-Infused Multi-modal Medical Dialogue Generation](https://aclanthology.org/2024.lrec-main.1264) [[code](https://github.com/NLP-RL/KI-MMDG)].  
   Abhisek Tiwari, Shreyangshu Bera, Preeti Verma, Jaithra Varma Manthena, Sriparna Saha, Pushpak Bhattacharyya, Minakshi Dhar and Sarbajeet Tiwari.  
-  *Joint International Conference on Computational Linguistics, Language Resource and Evaluation (LREC-COLING) 2024*  [[code](https://github.com/NLP-RL/KI-MMDG)]
+  *Joint International Conference on Computational Linguistics, Language Resource and Evaluation (LREC-COLING) 2024*  
 
-- [Yes, this is what I was looking for! Towards Multi-modal Medical Consultation Concern Summary Generation](https://arxiv.org/abs/2401.05134).  
+- [Yes, this is what I was looking for! Towards Multi-modal Medical Consultation Concern Summary Generation](https://arxiv.org/abs/2401.05134) [[code](https://github.com/NLP-RL/MMCSG)].  
   Abhisek Tiwari, Shreyangshu Bera, Sriparna Saha, Pushpak Bhattacharya, Samrat Ghosh, Minkashi Dhar.  
-  *European Conference on Information Retrieval (ECIR) 2024*  [[code](https://github.com/NLP-RL/MMCSG)]
+  *European Conference on Information Retrieval (ECIR) 2024*  
