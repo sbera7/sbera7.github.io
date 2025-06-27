@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 <head><meta name="google-site-verification" content="JizhBeLpsLQXLPLJCvhF0DJETEfHzphPKhZAJ_-_A-g" /></head>
+
 Hi! I am a Master's student in Computer Science at UC Riverside (advised by [Prof, Amit K. Roy-Chowdhury](https://vcg.ece.ucr.edu/amit)).
 
 
