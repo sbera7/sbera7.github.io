@@ -10,7 +10,7 @@ author_profile: true
 - [LINGUAL: Language-INtegrated GUidance in Active Learning for Medical Image Segmentation](https://arxiv.org/abs/2511.14028).  
   Md S. Islam, **S. Bera**, S Paul, A. Roy-Chowdhury, *Pre-print, 2025*
   
-- [ODES: Domain Adaptation with expert guidance for Online Medical Image Segmentation](https://papers.miccai.org/miccai-2025/0648-Paper5017.html).  
+- [ODES: Domain Adaptation with expert guidance for Online Medical Image Segmentation](https://papers.miccai.org/miccai-2025/0648-Paper5017.html) [[code](https://github.com/ShazidAraf/ODES)].  
   Md S. Islam, S. Nag, A. Dutta, F.F. Niloy, Sk M. Ahmed, **S. Bera**, A. Roy-Chowdhury, *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025*
 
 ## 2024
